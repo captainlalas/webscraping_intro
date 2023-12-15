@@ -1,4 +1,5 @@
-Webscapping introduction project with Python.
+## Webscapping with Python.
 
-We use BeautifulSoup to extract the data from a Wikipedia page about most best Tennis men performers in Davis cup,
-Transform the extracted data to a Pandas data frame and load it to a database with Sqlite 3
+In this beginner firendly project, we use **BeautifulSoup** to extract the data from [this Wikipedia article](https://en.wikipedia.org/wiki/Davis_Cup_winning_players) on the best Tennis men performers in Davis cup.
+
+And we transform the extracted data to a **Pandas** data frame and before loading it to SQLite database through the Python **Sqlite3** library.
